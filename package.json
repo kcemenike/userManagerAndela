@@ -27,10 +27,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andela-bolajide/UserManager.git"
+    "url": "git+https://github.com/BolajiOlajide/UserManager.git"
   },
   "bugs": {
-    "url": "https://github.com/andela-bolajide/UserManager/issues"
+    "url": "https://github.com/BolajiOlajide/UserManager/issues"
   },
-  "homepage": "https://github.com/andela-bolajide/UserManager#readme"
+  "homepage": "https://github.com/BolajiOlajide/UserManager#readme"
 }
